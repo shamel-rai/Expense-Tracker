@@ -11,7 +11,7 @@ export default function AddTransaction() {
         const newTransactionID = {
             id: Math.floor(Math.random() * 100000000),
             text,
-            amount
+            amount: +amount
         }
         addTransaction(newTransactionID);
     }
