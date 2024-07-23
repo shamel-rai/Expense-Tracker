@@ -39,6 +39,3 @@ This project was built following a [Traversy Media](https://www.youtube.com/watc
 ## Contributions
 Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request with your improvements or additional features.
 
----
-
-Feel free to replace `"URL"` with the actual link to the YouTube tutorial you followed.
